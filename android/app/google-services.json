@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "977467133917",
+    "project_id": "eldercommunity-49b99",
+    "storage_bucket": "eldercommunity-49b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977467133917:android:2ff6eee9a6d11a3fda7034",
+        "android_client_info": {
+          "package_name": "com.ssr.flutter_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977467133917-kclkdokiuqqhs5kv46hkepu7j47gnqqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOgrGAucr0_KqHhRuZvmjjeQ1Xv-ym96k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977467133917-kclkdokiuqqhs5kv46hkepu7j47gnqqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977467133917-3a2djfk34rbminske80j8ljhq7p9gdj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977467133917:android:a7b220e6c996478fda7034",
+        "android_client_info": {
+          "package_name": "com.ssr.oc_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977467133917-kclkdokiuqqhs5kv46hkepu7j47gnqqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOgrGAucr0_KqHhRuZvmjjeQ1Xv-ym96k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977467133917-kclkdokiuqqhs5kv46hkepu7j47gnqqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977467133917-3a2djfk34rbminske80j8ljhq7p9gdj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
